@@ -10,6 +10,27 @@
       <link>https://MqLeet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://MqLeet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Nov 2023 19:20:16 +0800</lastBuildDate><atom:link href="https://MqLeet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category 1</title>
+      <link>https://MqLeet.github.io/categories/category-1/</link>
+      <pubDate>Fri, 03 Nov 2023 19:20:16 +0800</pubDate>
+      
+      <guid>https://MqLeet.github.io/categories/category-1/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>category 2</title>
+      <link>https://MqLeet.github.io/categories/category-2/</link>
+      <pubDate>Fri, 03 Nov 2023 19:20:16 +0800</pubDate>
+      
+      <guid>https://MqLeet.github.io/categories/category-2/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

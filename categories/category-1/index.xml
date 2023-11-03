@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Qli&#39;s-log</title>
-    <link>https://MqLeet.github.io/</link>
-    <description>Recent content on Qli&#39;s-log</description>
+    <title>category 1 on Qli&#39;s-log</title>
+    <link>https://MqLeet.github.io/categories/category-1/</link>
+    <description>Recent content in category 1 on Qli&#39;s-log</description>
     <image>
       <title>Qli&#39;s-log</title>
       <url>https://MqLeet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2023 19:20:16 +0800</lastBuildDate><atom:link href="https://MqLeet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 19:20:16 +0800</lastBuildDate><atom:link href="https://MqLeet.github.io/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://MqLeet.github.io/posts/test/</link>
@@ -22,19 +22,6 @@
       <content:encoded><![CDATA[<!-- raw HTML omitted -->
 ]]></content:encoded>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://MqLeet.github.io/about/</link>
-      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/about/</guid>
-      <description>I&amp;rsquo;m Qianli~ </description>
-      <content:encoded><![CDATA[<h1 id="im-qianli">I&rsquo;m Qianli~</h1>
-]]></content:encoded>
-    </item>
-    
-    
     
   </channel>
 </rss>
