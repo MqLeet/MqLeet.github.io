@@ -1,76 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Sulv&#39;s Blog</title>
+    <title>Qli&#39;s-log</title>
     <link>https://MqLeet.github.io/</link>
-    <description>Recent content on Sulv&#39;s Blog</description>
+    <description>Recent content on Qli&#39;s-log</description>
+    <image>
+      <title>Qli&#39;s-log</title>
+      <url>https://MqLeet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://MqLeet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate><atom:link href="https://MqLeet.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Redis scan命令学习</title>
-      <link>https://MqLeet.github.io/posts/tech/tech1/</link>
-      <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/posts/tech/tech1/</guid>
-      <description>scan命令详解</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://MqLeet.github.io/posts/blog/blog/</link>
-      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/posts/blog/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://MqLeet.github.io/posts/life/life/</link>
-      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/posts/life/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Read</title>
-      <link>https://MqLeet.github.io/posts/read/read/</link>
-      <pubDate>Thu, 05 May 2022 00:18:06 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/posts/read/read/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://MqLeet.github.io/posts/tech/tech/</link>
-      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/posts/tech/tech/</guid>
-      <description>科技代码</description>
-    </item>
-    
-    <item>
-      <title>🤝友链</title>
-      <link>https://MqLeet.github.io/links/</link>
-      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/links/</guid>
-      <description>Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 👉友链格式 名称： Sulv&amp;rsquo;s Blog 网址： https://www.sulvblog.cn 图标： https://www.sulvblog.cn/img/Q.gif 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告、个人描述字数控制在15字内 👉Hugo博客交流群 787018782</description>
-    </item>
-    
-    <item>
-      <title>🙋🏻‍♂️关于</title>
-      <link>https://MqLeet.github.io/about/</link>
-      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
-      
-      <guid>https://MqLeet.github.io/about/</guid>
-      <description>关于我 英文名: Kevin Xu 职业: 程序员 运动: 跑步、乒乓球、爬山</description>
-    </item>
-    
-    
-    
+    <language>en-us</language><atom:link href="https://MqLeet.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
